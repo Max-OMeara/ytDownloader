@@ -10,7 +10,7 @@ The YouTube Video Downloader is a Python-based application that allows users to 
 - **Select Download Path**: Users can choose the directory where the downloaded video will be saved.
 - **Simple GUI**: The application includes a user-friendly interface created with Tkinter, allowing easy interaction for users.
 
-#Project Purpose
+##Project Purpose
 This project was developed to practice Python programming, specifically focusing on GUI development with Tkinter and working with external libraries like pytube and moviepy. It serves as a practical tool for downloading YouTube videos without paying for YouTube premium, and the source code can be further expanded with additional features.
 
 ## Technologies Used
